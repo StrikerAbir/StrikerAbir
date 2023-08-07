@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StrikerAbir
+- 👋 Hi, I’m Abir Hasan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on project
